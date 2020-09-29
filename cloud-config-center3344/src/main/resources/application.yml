@@ -16,7 +16,7 @@ spring:
 
         git:
 
-          uri:  填写你自己的github路径
+          uri:  git@github.com:Jason154/springcloud-config.git
 
           search-paths:
 
